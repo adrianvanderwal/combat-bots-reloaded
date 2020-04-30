@@ -1,0 +1,12 @@
+{
+  "name": "combat-bots-reloaded",
+  "version": "0.0.1",
+  "date": "2020-04-30",
+  "title": "Combat Bots Reloaded",
+  "author": "EnigmaticAussie",
+  "dependencies": [
+    "base >= 0.18.0"
+  ],
+  "description": "Adds upgrade tiers for combat bots.",
+  "factorio_version": "0.18"
+}
